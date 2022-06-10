@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Mariosignorelli/Construindo-estrura-URL-dio#readme",
   "dependencies": {
+    "@typegoose/typegoose": "^9.9.0",
     "@typescript-eslint/eslint-plugin": "^5.27.1",
     "@typescript-eslint/parser": "^5.27.1",
     "cors": "^2.8.5",
